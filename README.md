@@ -17,34 +17,6 @@ I've previously given talks about Git and Version Control at Rowan's ProfHacks, 
 
 Stuff I use:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/autohotkey" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/bitwarden" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/darkreader" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/duckduckgo" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/dungeonsanddragons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/firefoxbrowser" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnu" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ieee" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/LaTeX" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/libreoffice" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/notion" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/openwrt" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/powershell" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/protonmail" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/protonvpn" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/thinkpad" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/ublockorigin" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vscodium" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" /><img height="32" width="32" src="https://cdn.simpleicons.org/autohotkey" /><img height="32" width="32" src="https://cdn.simpleicons.org/bitwarden" /><img height="32" width="32" src="https://cdn.simpleicons.org/c" /><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /><img height="32" width="32" src="https://cdn.simpleicons.org/darkreader" /><img height="32" width="32" src="https://cdn.simpleicons.org/duckduckgo" /><img height="32" width="32" src="https://cdn.simpleicons.org/dungeonsanddragons" /><img height="32" width="32" src="https://cdn.simpleicons.org/firefoxbrowser" /><img height="32" width="32" src="https://cdn.simpleicons.org/git" /><img height="32" width="32" src="https://cdn.simpleicons.org/github" /><img height="32" width="32" src="https://cdn.simpleicons.org/gnu" /><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" /><img height="32" width="32" src="https://cdn.simpleicons.org/ieee" /><img height="32" width="32" src="https://cdn.simpleicons.org/LaTeX" /><img height="32" width="32" src="https://cdn.simpleicons.org/libreoffice" /><img height="32" width="32" src="https://cdn.simpleicons.org/notion" /><img height="32" width="32" src="https://cdn.simpleicons.org/openwrt" /><img height="32" width="32" src="https://cdn.simpleicons.org/powershell" /><img height="32" width="32" src="https://cdn.simpleicons.org/protonmail" /><img height="32" width="32" src="https://cdn.simpleicons.org/protonvpn" /><img height="32" width="32" src="https://cdn.simpleicons.org/python" /><img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" /><img height="32" width="32" src="https://cdn.simpleicons.org/rust" /><img height="32" width="32" src="https://cdn.simpleicons.org/thinkpad" /><img height="32" width="32" src="https://cdn.simpleicons.org/ublockorigin" /><img height="32" width="32" src="https://cdn.simpleicons.org/vim" /><img height="32" width="32" src="https://cdn.simpleicons.org/vscodium" /><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />
 
 Anyways feel free to browse my repos, and clone whatever you'd like. It's here for a reason after all.
