@@ -22,3 +22,12 @@ Stuff I use:
 Anyways feel free to browse my repos, and clone whatever you'd like. It's here for a reason after all.
 
 RIP [:atom:](https://github.com/atom/atom)
+
+```
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GAT/CM/CS/E/IT/M/S/TW/O d---(x) s++:+> a-- C++(---)$ UBL++++ P+ L++ !E W+++(--)$
+N K? w$ O M$ V? PS+++ PE-- Y+ PGP+++ t+ 5?>+ X?>+ R+>++ !tv b+>+++ DI D+ G e(++)
+h-->- !r z?
+------END GEEK CODE BLOCK------
+```
