@@ -1,4 +1,4 @@
-# @sthurston99 | Simon Gordon Edward Thurston
+# @thurstonian | Simon Gordon Edward Thurston
 
 > I spent over 50k on an unfinished computer science degree and all I got was this lousy GitHub page.
 
